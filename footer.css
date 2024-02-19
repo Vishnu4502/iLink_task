@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+    
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    border-radius: 10px 10px;
+    margin: 10px 10px;
+}
+
+.footer-container {
+    max-width: 800px;
+    margin: 10px 590px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.footer-links a:hover {
+    background-color: red;
+    color: white;
+    border-radius: 5px 5px;
+}

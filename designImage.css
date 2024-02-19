@@ -1,0 +1,11 @@
+.designImage{
+    text-align: center;
+}
+
+img {
+    width: 1408px;
+    height: 400px;  
+    border-radius: 10px 10px;
+    margin:auto;
+    display: block;
+}
